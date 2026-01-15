@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a final-year B.Tech student in Computer Science Engineering, Tech Enthusiast and specializing in C++ and SQL with strong skills in software design, data structures, and web technologies. I’m passionate about learning, innovating, and contributing to meaningful tech-driven projects that create real-world impact.<br>
+I’m a final-year B.Tech student in Computer Science Engineering, Tech Enthusiast and specializing in C++ and SQL with strong skills in software design, data structures, and data analytics. I’m passionate about learning, innovating, and contributing to meaningful tech-driven projects that create real-world impact.<br>
 
 
 ## 🌐 Socials:
