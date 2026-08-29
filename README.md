@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a final-year B.Tech student in Computer Science Engineering, Tech Enthusiast and specializing in C++ and SQL with strong skills in software design, data structures, and data analytics. I’m passionate about learning, innovating, and contributing to meaningful tech-driven projects that create real-world impact.<br>
+👋 Hi, I'm Darsh Jain, a Tech Enthusiast and I believe in continuously learning and growing.
+🚀 I've worked on real-world data engineering concepts.
+💡 Passionate about building scalable data pipelines, ETL/ELT workflows, Bi dashboards, Analytics ,and cloud-based data solutions.
+📚 I’m passionate about learning, innovating, and contributing to meaningful tech-driven projects that create real-world impact.
+🏅 I am interested in listening songs and playing badminton and cricket.<br>
 
 
 ## 🌐 Socials:
